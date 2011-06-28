@@ -1,4 +1,4 @@
-DESCRIPTION
+Tasky: A Google Tasks client
 ===========
 
 > This is a desktop client for Google Tasks that runs in the command line. It
