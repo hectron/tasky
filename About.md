@@ -22,10 +22,15 @@ Dependencies
 To use Tasky, you need the following:
 
 *[Python 2.7](http://python.org/download/releases/2.7.2/)
+
 *[The GNU Readline library](http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html)
+
 *[Google API client for Python](http://code.google.com/p/google-api-python-client/)
+
 *[A Google Apps account with the Tasks API enabled] (http://code.google.com/googleapps/domain/articles/2lo-in-tasks-for-admins.html#apikey)
+
 *A Unix Environment
+
 *_Optional:_ A file named 'keys.txt' in the src folder in Tasky.
 	
 
