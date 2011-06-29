@@ -433,7 +433,7 @@ def handle_input(c):
             
         task = { 'title' : title }
         month = raw_input("Month [MM]: ")
-        day = raw_input("Day [DD]): ")
+        day = raw_input("Day [DD]: ")
         year = raw_input("Year [YYYY]: ")
 
         if not (day is '' and month is '' and year is ''):
