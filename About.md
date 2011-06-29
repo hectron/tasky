@@ -6,6 +6,7 @@ This is a desktop client for Google Tasks that runs in the command line.
 It provides a fast way to interface with all task lists of a user and make changes and updates very quickly. This program has been designed to make as few API calls as possible in order to optimize performance.
 
 Some reasons for using Tasky include:
+
 	-The need to quickly update your tasks.
 	-Not have to open your browser.
 	-Keep away the distractions of Google Calendars or G-Mail.
